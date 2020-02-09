@@ -1,0 +1,7 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\01-Basics\Assessments\FizzBuzz\Start\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\Jeremy\source\repos\Fizzbuzz1\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\Jeremy\source\repos\Fizzbuzz1\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\Jeremy\source\repos\Fizzbuzz1\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\Jeremy\source\repos\Fizzbuzz1\FizzBuzz\obj\Debug\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\Fizzbuzz1\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\Jeremy\source\repos\Fizzbuzz1\FizzBuzz\obj\Debug\FizzBuzz.pdb
